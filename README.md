@@ -6,7 +6,7 @@ contoh conflict yang terjadi pada file
 
 -----
 >>>>main
-## SUmber Informasi Terkait Git
+## Sumber Informasi Terkait Git
 
 
 ##Sumber Informasi 
