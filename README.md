@@ -1,6 +1,13 @@
 # Hello-Github
 Teknik Informatika
 
+<<<<<conflict
+contoh conflict yang terjadi pada file
+
+-----
+>>>>main
+## Sumber Informasi Terkait Git
+
 
 ##Sumber Informasi 
 [Github guides] (https://guide.github.com/)
